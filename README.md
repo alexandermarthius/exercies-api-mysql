@@ -20,7 +20,9 @@ Starting server at 6060
 ```
 jika berhasil, maka kamu dapat mengaksesnya melalui request pada postman yang sudah kamu import.
 
-
+Admin
+user: admin
+pass: admin
 
 Terima kasih!
 
