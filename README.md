@@ -1,4 +1,4 @@
-# SIMPLE GO LANG REST API - JWT - MYSQL
+# GO LANG SIMPLE REST API - JWT - MYSQL
 
 Hasil latihan golang membuat api untuk mengelola user yang sederhana, auth menggunakan JWT, dan database menggunakan mysql/mariadb.
 syarat run:
